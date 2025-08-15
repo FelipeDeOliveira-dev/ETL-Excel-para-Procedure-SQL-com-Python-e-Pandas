@@ -4,7 +4,7 @@ Este projeto tem como objetivo automatizar a carga de dados de arquivos Excel (.
 
 🔧 Tecnologias Utilizadas
 
-Python 3.13.6
+Python 3.12
 
 Pandas
 
