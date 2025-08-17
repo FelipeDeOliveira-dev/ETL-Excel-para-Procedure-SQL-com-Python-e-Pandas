@@ -365,3 +365,9 @@ FodyWeavers.xsd
 #venv
 venv/
 .venv
+
+#base
+base.xlsx
+
+#secrets
+secrets.txt
