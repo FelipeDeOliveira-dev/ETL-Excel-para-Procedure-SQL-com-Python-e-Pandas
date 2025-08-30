@@ -8,5 +8,5 @@ file = r"C:\Users\junio\OneDrive\Área de Trabalho\SQLAutomative\modelo.xlsx"
 xlsx = Xlsx(file)
 
 
-xlsx.xlsx()
+xlsx.show_xlsx()
 xlsx.info_xlsx()

@@ -6,7 +6,7 @@ class Xlsx:
         self.file = file
         self.df = pd.read_excel(file)
 
-    def xlsx(self, n=100):
+    def show_xlsx(self, n=100):
         print(self.df.head(n))
 
     def info_xlsx(self):
