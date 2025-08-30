@@ -370,5 +370,4 @@ venv/
 base.xlsx
 
 #secrets
-secrets.txt
-config.env
+data/
